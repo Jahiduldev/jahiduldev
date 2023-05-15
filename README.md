@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working Kaicom Solutions as a Software Developer (Team Leader)
-- 🌱 I’m currently learning Elastic search
+- 🌱 I’m currently learning Elastic search , Apache Kafka & RabbitMQ
 - 👯 I’m looking to collaborate on a talented team
 - 🤔 I’m looking for help with software development
 - 💬 Ask me about technical architectures
