@@ -21,7 +21,7 @@
 
 ### Backend Frameworks
 ![laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge) ![Codeigniter](https://img.shields.io/badge/codeigniter-black?logo=codeigniter&style=for-the-badge)![nodejs](https://img.shields.io/badge/nodejs-black?logo=nodejs&style=for-the-badge) ![symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&style=for-the-badge)
-![NET_Core](https://img.shields.io/badge/.NET_Core-black?logo=.net&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NET_Core](https://img.shields.io/badge/.NET_Core-black?logo=.net&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-black?logo=python&style=for-the-badge)
 
 ### Database
 ![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![pgsql](https://img.shields.io/badge/postgresql-black?logo=postgresql&style=for-the-badge) ![firebase](https://img.shields.io/badge/firebase-black?logo=firebase&style=for-the-badge) ![sql](https://img.shields.io/badge/SQL-black?logo=sql&style=for-the-badge)  ![mongodb](https://img.shields.io/badge/MongoDB_Core-black?logo=mongodb&style=for-the-badge)
