@@ -4,7 +4,7 @@
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🤔 I’m looking for help with software development
-- 💬 Ask me about technical architectures
+- 💬 I love to read books and listen to music.
 - 📫 How to reach me: jahiduldev@gmail.com
 
 ### Actively Working 
