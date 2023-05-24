@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🤔 I’m looking for help with software development
 - 💬 I love to read books and listen to music.
-- 🔧 Tools - PHPStorm, VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac and Linux (Zorin OS).
+- 🔧 Tools - PHPStorm, VSCode, Insomnia,  Markdown Editors, Docker and the Terminal with PowerLevel on Mac and Linux.
 - 📫 How to reach me: jahiduldev@gmail.com
 
 ### Actively Working 
