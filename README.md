@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.
 
+
 - 🔭 I’m currently working Kaicom Solutions as a Software Developer (Team Leader)
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
