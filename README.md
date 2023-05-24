@@ -6,7 +6,7 @@ I love to read books and listen to music.
 
 
 - 🔭 I’m currently working Kaicom Solutions as a Software Developer (Team Leader).
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
+- 👯 I’m currently open for work and employment opportunities (remote and relocation).
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🤔 I’m looking for help with software development
 - 💬 I love to read books and listen to music.
