@@ -2,6 +2,8 @@
 
 I am a Full Stack Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, I'm open to work and employment opportunities.
 
+I love to read books and listen to music.
+
 
 - 🔭 I’m currently working Kaicom Solutions as a Software Developer (Team Leader)
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
