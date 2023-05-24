@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🤔 I’m looking for help with software development
 - 💬 I love to read books and listen to music.
-- 🔧 Tools - PHPStorm, VSCode, visual studio, Postman, Insomnia, Markdown Editors, Docker and the Terminal with PowerLevel on Mac and Linux.
+- 🔧 Tools - PHPStorm, VSCode, visual studio, Postman,Markdown Editors, Docker and the Terminal with PowerLevel on Mac and Linux.
 - 📫 How to reach me: jahiduldev@gmail.com
 
 ### Actively Working 
