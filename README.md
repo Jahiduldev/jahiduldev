@@ -34,9 +34,9 @@ I love to read books and listen to music.
 
 ### Where to find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahiduldev/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/jaidul-islam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://leetcode.com/jaidul-islam/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](#)
 
 
 
