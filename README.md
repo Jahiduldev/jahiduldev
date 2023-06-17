@@ -32,7 +32,7 @@ I love to read books and listen to music.
 ![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![sql](https://img.shields.io/badge/SQL-black?logo=sql&style=for-the-badge) ![pgsql](https://img.shields.io/badge/postgresql-black?logo=postgresql&style=for-the-badge) ![mongodb](https://img.shields.io/badge/MongoDB_Core-black?logo=mongodb&style=for-the-badge)
  ![firebase](https://img.shields.io/badge/firebase-black?logo=firebase&style=for-the-badge)  
 
-### Where to find me
+### Where to find me 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahiduldev/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/jaidul-islam/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](#)
