@@ -10,7 +10,7 @@ I love to read books and listen to music.
 - 🤔 I’m looking for help with software development.
 - 💬 I love to read books and listen to music.
 - 🔧 Tools - PHPStorm, VSCode, visual studio, Postman,Markdown Editors, Docker and the Terminal with PowerLevel on Mac and Linux.
-- 📫 How to reach me: jahiduldev@gmail.com.
+- 📫 How to reach me: jahiduldev@gmail.com
 
 ### Actively Working 
 ![PHP](https://img.shields.io/badge/php-black?logo=php&style=for-the-badge) ![laravel](https://img.shields.io/badge/laravel-black?logo=laravel&style=for-the-badge) ![mysql](https://img.shields.io/badge/mysql-black?logo=mysql&style=for-the-badge) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge) ![jquery](https://img.shields.io/badge/jquery-black?logo=jquery&style=for-the-badge) ![vue](https://img.shields.io/badge/vue-black?logo=vue&style=for-the-badge) ![react](https://img.shields.io/badge/react-black?logo=react&style=for-the-badge) ![html5](https://img.shields.io/badge/html5-black?logo=html5&style=for-the-badge) ![css3](https://img.shields.io/badge/css3-black?logo=css3&style=for-the-badge) ![bootstrap](https://img.shields.io/badge/bootstrap-black?logo=bootstrap&style=for-the-badge) ![nodejs](https://img.shields.io/badge/nodejs-black?logo=nodejs&style=for-the-badge) ![socketdotio](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&style=for-the-badge) ![pusher](https://img.shields.io/badge/Pusher-black?logo=pusher&style=for-the-badge)
