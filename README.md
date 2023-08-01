@@ -40,6 +40,7 @@ I love to read books and listen to music.
 
 
   ## My GitHub Stats &#x1f4c8;
+  <p>
   <a href="https://github.com/Jahiduldev/jahiduldev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahiduldev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   </a>
@@ -50,6 +51,7 @@ I love to read books and listen to music.
   [ ![ GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=jahiduldev&theme=dark&date_format=M%20j%5B%2C%20Y%5D) ](https://git.io/streak-stats)
   ## Leetcode Stats
   [![Leetcode Stats](https://leetcard.jacoblin.cool/jaidul-islam?ext=animation=true)](https://leetcode.com/jaidul-islam/)
+  </p>
  
 
 
