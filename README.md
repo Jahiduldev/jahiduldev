@@ -49,7 +49,7 @@ I love to read books and listen to music.
 
   [ ![ GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=jahiduldev&theme=dark&date_format=M%20j%5B%2C%20Y%5D) ](https://git.io/streak-stats)
   ## Leetcode Stats
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/jaidul-islam?ext=heatmap&animation=false)](https://leetcode.com/jaidul-islam/)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/jaidul-islam?ext=animation=true)](https://leetcode.com/jaidul-islam/)
  
 
 
