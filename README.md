@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer with love for PHP, JavaScript, Laravel, Codeigniter, NodeJs,  React.js, VueJs, Angular, RDBMS, WordPress, Bootstrap and System Architecture. Currently, I'm open to work.
 
-I love to read books and listen to music .
+I love to read books and listen to music.
 
 - 🔭 I’m currently working Kaicom Solutions as a Software Developer (Team Leader).
 - 👯 I’m currently open for work and employment opportunities (remote and relocation).
