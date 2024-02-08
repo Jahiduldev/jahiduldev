@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you .</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>
 
 I am a Full Stack Developer with love for PHP, JavaScript, Laravel, Codeigniter, NodeJs,  React.js, VueJs, Angular, RDBMS, WordPress, Bootstrap and System Architecture. Currently, I'm open to work.
 
